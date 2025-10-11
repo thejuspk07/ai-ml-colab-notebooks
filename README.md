@@ -47,7 +47,7 @@ Here are some resources I'm using in my learning journey:
 Feel free to reach out if you want to:
 - Share learning resources
 - Collaborate on projects
-- Discuss ML concepts
+- Discuss ML concepts. 
 
 Happy Learning! 🌟
 
