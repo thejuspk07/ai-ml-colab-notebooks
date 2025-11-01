@@ -1,53 +1,70 @@
 # AI & ML Colab Notebooks
 
-Welcome to **AI & ML Colab Notebooks**! This repository contains my learning journey and experiments with Artificial Intelligence (AI) and Machine Learning (ML) using Google Colab notebooks. Join me as I explore and document various concepts in this exciting field!
+A curated collection of Google Colab notebooks for hands-on learning and experimentation in Machine Learning and Deep Learning. Perfect for recruiters, contributors, and learners looking to explore practical ML workflows.
 
-## 🎯 Learning Goals
+## Project Structure
 
-- Understanding fundamental ML concepts
-- Hands-on practice with popular ML algorithms
-- Building practical AI/ML projects
-- Documenting learning progress through notebooks
+```
+ai-ml-colab-notebooks/
+├── notebooks/
+├── datasets/
+├── models/
+├── docs/
+├── requirements.txt
+└── README.md
+```
 
-## 📚 What's Inside
+## Table of Contents
 
-This repository contains Colab notebooks covering:
-- Basic Machine Learning concepts
-- Data preprocessing techniques
-- Model training and evaluation
-- Practical projects and experiments
+- [Notebooks](#notebooks)
+- [Datasets](#datasets)
+- [Models](#models)
+- [Documentation](#documentation)
+- [Installation](#installation)
+- [Running in Google Colab](#running-in-google-colab)
+- [Contributing](#contributing)
+- [FAQ](docs/FAQ.md)
+- [Future Work](#future-work)
 
-## 🚀 Getting Started
+## Notebooks
 
-1. **Access the Notebooks:**
-   - Click on any notebook in this repository
-   - Open it in Google Colab using the "Open in Colab" button
-   
-2. **Run the Notebooks:**
-   - No setup required! Everything runs in the cloud
-   - Just execute cells and start learning
+| Name                                       | Link                                                                 |
+|--------------------------------------------|----------------------------------------------------------------------|
+| Simple Linear Regression                   | [Open](notebooks/01_simple_linear_regression.ipynb)                 |
+| Breast Cancer Classification               | [Open](notebooks/02_breast_cancer_classification.ipynb)             |
+| Churn Prediction with ANN                  | [Open](notebooks/03_churn_prediction_ann.ipynb)                     |
+| Model Creation Workflows                   | [Open](notebooks/04_model_creation.ipynb)                           |
 
-## 📝 Learning Resources
+## Installation
 
-Here are some resources I'm using in my learning journey:
-- Google Colab Tutorials
-- Online ML courses
-- Dataset practice problems
-- Community examples and guides
+Clone the repository and install dependencies:
 
-## 🤝 Connect & Contribute
+```bash
+git clone https://github.com/thejuspk07/ai-ml-colab-notebooks.git
+cd ai-ml-colab-notebooks
+pip install -r requirements.txt
+```
 
-- Feel free to fork this repository
-- Share your own learning experiences
-- Suggest improvements or corrections
-- Let's learn together!
+## Running in Google Colab
 
-## 📫 Contact
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thejuspk07/ai-ml-colab-notebooks)
 
-Feel free to reach out if you want to:
-- Share learning resources
-- Collaborate on projects
-- Discuss ML concepts. 
+Open any notebook above in Google Colab to start experimenting instantly.
 
-Happy Learning! 🌟
+## Documentation
 
+Additional documentation is in [`docs/`](docs/):
+
+- [Contributing Guidelines](docs/CONTRIBUTING.md)
+- [FAQ](docs/FAQ.md)
+- [Project Overview (PDF)](docs/overview.pdf)
+
+## Future Work
+
+- Add more advanced ML and DL notebooks
+- Expand documentation and add video tutorials
+- Integrate more datasets
+
+---
+
+**For contributors/recruiters:** See [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and [docs/overview.pdf](docs/overview.pdf).
