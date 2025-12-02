@@ -1,6 +1,6 @@
 # AI & ML Colab Notebooks
 
-A curated collection of Google Colab notebooks for hands-on learning and experimentation in Machine Learning and Deep Learning. Perfect for recruiters, contributors, and learners looking to explore practical ML workflows..
+A curated collection of Google Colab notebooks for hands-on learning and experimentation in Machine Learning and Deep Learning. Perfect for recruiters, contributors, and learners looking to explore practical ML workflows.
 
 ## Project Structure
 
