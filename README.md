@@ -44,7 +44,7 @@ git clone https://github.com/thejuspk07/ai-ml-colab-notebooks.git
 cd ai-ml-colab-notebooks
 pip install -r requirements.txt
 ```
-
+\\
 ## Running in Google Colab
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thejuspk07/ai-ml-colab-notebooks)
@@ -67,4 +67,4 @@ Additional documentation is in [`docs/`](docs/):
 
 ---
 
-**For contributors/recruiters:** See [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and [docs/overview.pdf](docs/overview.pdf)
+**For contributors/recruiters:** See [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and [docs/overview.pdf](docs/overview.pdf) 
