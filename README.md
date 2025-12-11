@@ -67,4 +67,4 @@ Additional documentation is in [`docs/`](docs/):
 
 ---
 
-**For contributors/recruiters:** See [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and [docs/overview.pdf](docs/overview.pdf) 
+***For contributors/recruiters:** See [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and [docs/overview.pdf](docs/overview.pdf) 
